@@ -1,0 +1,6 @@
+framework module Pods_HepsiburadaCase {
+  umbrella header "Pods-HepsiburadaCase-umbrella.h"
+
+  export *
+  module * { export * }
+}
